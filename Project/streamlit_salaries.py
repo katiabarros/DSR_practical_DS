@@ -36,7 +36,7 @@ def make_predictions(test_data):
     return prediction
 
 if __name__ == "__main__":
-    st.title("Data Scientists salary prediction")
+    st.title("Data Science salary prediction")
     #data = pd.read_csv("./data/holdout_data.csv")
     
     #visualize customer's data
